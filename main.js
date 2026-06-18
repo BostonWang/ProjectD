@@ -1,3 +1,6 @@
+// homework 1
+// 作業 1：打造專屬角色聊天機器人
+
 import { input } from "@inquirer/prompts";
 import OpenAI from "openai";
 import { OPENAI_API_KEY } from "./config.js";
